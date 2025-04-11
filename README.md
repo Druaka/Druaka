@@ -1,6 +1,6 @@
 ## Hi there v2 👋
 
-<img title="hover text" height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img title="hover text" style="pointer-events: none;" height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <!--
 **Druaka/Druaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
