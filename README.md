@@ -12,9 +12,9 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 - 🎮 Forever gamer — especially into tabletop and online trading card games, but always up for anything. Got a favourite? Let’s play together!
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kubernetes&theme=dark&perline=20)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,angular,nodejs&theme=dark&perline=20)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,md,regex,powershell,cs,r,hibernate,mysql,postgres,redis,docker,jenkins,githubactions,prometheus,grafana,elasticsearch,aws,azure,firebase,gradle,maven,npm,jquery,bootstrap,vue,rabbitmq,selenium,git,gitlab,github,bitbucket,windows,linux,ubuntu,debian,redhat,gmail,linkedin,discord,instagram,twitter,idea,eclipse,postman,&theme=dark&perline=20)](https://skillicons.dev)
+![Level3](https://skillicons.dev/icons?i=java,spring,kubernetes&theme=dark&perline=16)<br/>
+![Level2](https://skillicons.dev/icons?i=mongodb,express,angular,nodejs&theme=dark&perline=16)<br/>
+![Level1](https://skillicons.dev/icons?i=js,ts,html,css,md,regex,powershell,cs,r,hibernate,mysql,postgres,redis,docker,jenkins,githubactions,prometheus,grafana,elasticsearch,aws,azure,firebase,gradle,maven,npm,jquery,bootstrap,vue,rabbitmq,selenium,git,gitlab,github,bitbucket,windows,linux,ubuntu,debian,redhat,gmail,linkedin,discord,instagram,twitter,idea,eclipse,postman,&theme=dark&perline=16)
 
 #### TODO — Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/johan-van-wyk-0/)
@@ -27,7 +27,7 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 |---------------------------------------------------------------------------------------------------|-----------|-------------|---------------|
 | [**DevJourney**](https://github.com/Druaka/devjourney)                      | x         | x           | x             |
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Druaka&show_icons=true&include_all_commits=true&hide_border=true" alt="Druaka's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druaka&layout=compact&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Druaka&show_icons=true&include_all_commits=true&hide_border=true" alt="Druaka's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druaka&layout=compact&hide_border=true" /> |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
 
 <p><i>“The beautiful thing about learning is that nobody can take it away from you.”</i> — B.B. King</p>
