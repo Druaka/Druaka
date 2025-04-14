@@ -10,6 +10,7 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 - 🚀 Skilled in TypeScript, Node.js, Angular, Express, MongoDB, SQL, Jenkins, GitLab, GitHub, ELK Stack, AWS & Azure
 - 🤝 Communicative and client-focused — I translate needs into elegant technical solutions
 - 🎮 Forever gamer — especially into tabletop and online trading card games, but always up for anything. Got a favourite? Let’s play together!
+- TODO
 
 #### Skills
 ![Level3](https://skillicons.dev/icons?i=java,spring,kubernetes&theme=dark&perline=16)<br/>
