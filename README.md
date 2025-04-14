@@ -7,7 +7,7 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 #### About me
 - 💼 Senior Software Engineer at [Capgemini](https://www.capgemini.com/nl-nl/)
 - 🧠 Passionate full-stack developer with a strong Java + Spring and Business IT background 
-- 🚀 Skilled in TypeScript, Node.js, Angular, Express, MongoDB, SQL, Kubernetes, Jenkins, GitLab, GitHub, ELK Stack, AWS & Azure
+- 🚀 Skilled in Kubernetes, TypeScript, Node.js, Angular, Express, MongoDB, SQL, Jenkins, GitLab, GitHub, ELK Stack, AWS & Azure
 - 🤝 Communicative and client-focused — I translate needs into elegant technical solutions
 - 🎮 Forever gamer — especially into tabletop and online trading card games, but always up for anything. Got a favourite? Let’s play together!
 - TODO
