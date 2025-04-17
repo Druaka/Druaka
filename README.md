@@ -23,9 +23,9 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/JohanvanWyk3525)
 
 #### Projects & Stats
-| Project 📽️ | Issues 🐛 | Open PRs 🔔 | Closed PRs 🔥 |
-|---------------------------------------------------------------------------------------------------|-----------|-------------|---------------|
-| [**DevJourney**](https://github.com/Druaka/devjourney)                      | x         | x           | x             |
+| Repository 🗂️ | GitHub Pages 🌐 | Issues 🐜 | Open PRs 🚧 | Closed PRs ✅ |
+|---|---|---|---|---|
+| [**DevJourney**](https://github.com/Druaka/devjourney) | [**Website**](https://druaka.github.io/devjourney/) | [![GitHub issues](https://img.shields.io/github/issues/Druaka/devjourney?color=6f42c1&logo=github&style=flat)](https://github.com/Druaka/devjourney/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Druaka/devjourney?style=flat&color=f66a0a&logo=github)](https://github.com/Druaka/devjourney/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Druaka/devjourney?style=flat&color=28a745&logo=github)](https://github.com/Druaka/devjourney/pulls?q=is%3Apr+is%3Aclosed) |
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Druaka&show_icons=true&include_all_commits=true&hide_border=true" alt="Druaka's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druaka&layout=compact&hide_border=true" /> |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
