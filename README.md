@@ -19,7 +19,7 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 
 - 🤝 Communicative and client-focused — I translate needs into elegant technical solutions
 
-- 🎮 Forever gamer — especially into tabletop and online trading card games, but always up for anything. Find my gamer tags on [![Linktree](https://img.shields.io/badge/-Linktree-3DD056?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/druakah)
+- 🎮 Lifelong gamer into tabletop and online TCGs — always up for a match! Tags on [![Linktree](https://img.shields.io/badge/-Linktree-3DD056?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/druakah)
 
 #### Skills
 ![Level3](https://skillicons.dev/icons?i=java,spring,kubernetes&theme=dark&perline=16)<br/>
