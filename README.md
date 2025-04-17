@@ -1,19 +1,25 @@
 <img alt="Scenic view of Zaandam" src="./assets/zaandam.jpg" />
 
 ## Hello world 👋 I'm Johan
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/johan-van-wyk-0/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-van-wyk-0/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/druakah)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@druakah)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/JohanvanWyk3525)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/johanvanwyk0/)
+[![X (formerly Twitter)](https://img.shields.io/badge/X%20(formerly%20Twitter)-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JohanvanWyk3525)
 
 I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software Engineer by day, gamer for life 🎮💻🌍
 
 #### About me
-- 💼 Senior Software Engineer at [Capgemini](https://www.capgemini.com/nl-nl/)
-- 🧠 Passionate full-stack developer with a strong Java + Spring and Business IT background 
+
+- 💼 Senior Software Engineer at [![Capgemini](https://img.shields.io/badge/-Capgemini-0070AD?style=flat&logo=capgemini&logoColor=white)](https://www.capgemini.com/nl-nl/)
+
+- 🧠 Passionate full-stack developer with a strong Java + Spring and Business IT background
+
 - 🚀 Skilled in Kubernetes, TypeScript, Node.js, Angular, Express, MongoDB, SQL, Jenkins, GitLab, GitHub, ELK Stack, AWS & Azure
+
 - 🤝 Communicative and client-focused — I translate needs into elegant technical solutions
-- 🎮 Forever gamer — especially into tabletop and online trading card games, but always up for anything. Got a favourite? Let’s play together!
+
+- 🎮 Forever gamer — especially into tabletop and online trading card games, but always up for anything. Find my gamer tags on [![Linktree](https://img.shields.io/badge/-Linktree-3DD056?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/druakah)
 
 #### Skills
 ![Level3](https://skillicons.dev/icons?i=java,spring,kubernetes&theme=dark&perline=16)<br/>
