@@ -23,7 +23,7 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/JohanvanWyk3525)
 
 #### Repositories & Stats
-| Repository :octocat:️ | GitHub Pages 🌐 | Issues 🐜 | Open PRs 🚧 | Closed PRs ✅ |
+| :octocat:️ Repository | 🌐 GitHub Pages | 🐜 Issues | 🚧 Open PRs | ✅ Closed PRs |
 |---|---|---|---|---|
 | [**Druaka**](https://github.com/Druaka/Druaka) | n/a | [![GitHub issues](https://img.shields.io/github/issues/Druaka/Druaka?color=6f42c1&logo=github&style=flat)](https://github.com/Druaka/Druaka/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Druaka/Druaka?style=flat&color=f66a0a&logo=github)](https://github.com/Druaka/Druaka/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Druaka/Druaka?style=flat&color=28a745&logo=github)](https://github.com/Druaka/Druaka/pulls?q=is%3Apr+is%3Aclosed) |
 | [**DevJourney**](https://github.com/Druaka/devjourney) | [**Website**](https://druaka.github.io/devjourney/) | [![GitHub issues](https://img.shields.io/github/issues/Druaka/devjourney?color=6f42c1&logo=github&style=flat)](https://github.com/Druaka/devjourney/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Druaka/devjourney?style=flat&color=f66a0a&logo=github)](https://github.com/Druaka/devjourney/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Druaka/devjourney?style=flat&color=28a745&logo=github)](https://github.com/Druaka/devjourney/pulls?q=is%3Apr+is%3Aclosed) |
