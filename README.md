@@ -13,7 +13,7 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 
 - 💼 Senior Software Engineer at [![Capgemini](https://img.shields.io/badge/-Capgemini-0070AD?style=flat&logo=capgemini&logoColor=white)](https://www.capgemini.com/nl-nl/)
 
-- 🧠 Passionate full-stack developer with a strong Java + Spring and Business IT background
+- ❤️‍🔥 Passionate full-stack developer with a strong Java + Spring and Business IT background
 
 - 🚀 Skilled in Kubernetes, TypeScript, Node.js, Angular, Express, MongoDB, SQL, Jenkins, GitLab, GitHub, ELK Stack, AWS & Azure
 
