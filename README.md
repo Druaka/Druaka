@@ -21,7 +21,7 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 
 - 🎮 Lifelong gamer into tabletop and online TCGs — always up for a match! Tags on [![Linktree](https://img.shields.io/badge/-Linktree-3DD056?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/druakah)
 
-- ⭐ Other interests include animals 🐈🐕, football ⚽, movies/series/anime 🎞️, music 🎵, food 🍔 and beer/wine 🍺🍷
+- ⭐ Other interests include animals 🐈🐕, football ⚽, movies/series/anime 🎬, music 🎵, food 🍔 and beer/wine 🍺🍷
 
 ### Repositories, Skill Ratings & Stats
 | :octocat:️ Repository | 🌐 GitHub Pages | 🐜 Issues | 🚧 Pull Requests |
