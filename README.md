@@ -7,7 +7,7 @@
 [![X (formerly Twitter)](https://img.shields.io/badge/X%20(formerly%20Twitter)-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JohanvanWyk3525)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/johanvanwyk0/)
 
-I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software Engineer by day, gamer for life 🎮💻🌍
+I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software Engineer by day, gamer for life 🎮💻🌍🤦‍♂️
 
 ### About me
 
