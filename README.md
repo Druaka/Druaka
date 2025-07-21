@@ -1,17 +1,18 @@
 <img alt="Scenic view of Zaandam" src="./assets/zaandam.jpg" />
 
 ## Hello world 👋 I'm Johan
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-van-wyk-0/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/druakah)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@druakah)
-[![X](https://img.shields.io/badge/X%20(formerly%20Twitter)-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JohanvanWyk3525)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/johanvanwyk0/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white)](https://www.linkedin.com/in/johan-van-wyk-0/)
+[![Credly](https://img.shields.io/badge/-Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/druaka)
+[![Twitch](https://img.shields.io/badge/-Twitch-6441A4?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/druakah)
+[![YouTube](https://img.shields.io/badge/-YouTube-CD201F?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@druakah)
+[![X](https://img.shields.io/badge/-X%20(formerly%20Twitter)-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JohanvanWyk3525)
+[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/johanvanwyk0/)
 
 I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software Engineer by day, gamer for life 🎮💻🌍
 
 ### About me
 
-- 💼 Senior Software Engineer at [![Capgemini](https://img.shields.io/badge/-Capgemini-0070AD?style=flat&logo=capgemini&logoColor=white)](https://www.capgemini.com/nl-nl/)
+- 💼 Senior Software Engineer at [![Capgemini](https://img.shields.io/badge/-Capgemini-0070AD?style=flat&logo=leaflet&logoColor=white)](https://www.capgemini.com/nl-nl/)
 
 - ❤️ Passionate full-stack developer with a strong Java + Spring and Business IT background
 
