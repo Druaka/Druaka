@@ -8,7 +8,7 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-CD201F?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@druakah)
 [![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/johanvanwyk0/)
 
-I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software Engineer by day, gamer for life 🎮💻🌍
+I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software Engineer by day, gamer for life 🎮💻🌍🤦‍♂️
 
 ### About me
 
