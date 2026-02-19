@@ -36,6 +36,9 @@ I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software E
 | ⭐⭐⭐⭐   | ![Level4](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,aws,azure,mysql,postgres,docker,jenkins,jquery,windows,linux,ubuntu,idea,eclipse,postman,gmail,linkedin,discord,instagram,twitter&theme=dark&perline=12) |
 | ⭐⭐⭐    | ![Level3](https://skillicons.dev/icons?i=regex,powershell,cs,r,hibernate,redis,firebase,bootstrap,vue,rabbitmq,selenium,debian,redhat&theme=dark&perline=12)                                                                       |
 
+| <img align="center" src="https://github-readme-stats-three-peach-92.vercel.app/api?username=Druaka&show_icons=true&hide_border=true" alt="Druaka's github stats" /> | <img align="center" src="https://github-readme-stats-three-peach-92.vercel.app/api/top-langs/?username=Druaka&layout=compact&hide_border=true" /> |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
+
 ![Profile Details](https://raw.githubusercontent.com/Druaka/Druaka/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
 <p><i>“The beautiful thing about learning is that nobody can take it away from you.”</i> — B.B. King</p>
