@@ -5,6 +5,10 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  issues: read
+  pull-requests: read
+  packages: read
+  repository-projects: read
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,7 +17,7 @@ jobs:
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           USERNAME: Druaka
           BRANCH_NAME: main
