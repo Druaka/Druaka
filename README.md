@@ -1,12 +1,13 @@
 <img alt="Scenic view of Zaandam" src="./assets/zaandam.jpg" />
 
 ## Hello world 👋 I'm Johan
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white)](https://www.linkedin.com/in/johan-van-wyk-0/)
 [![Credly](https://img.shields.io/badge/-Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/druaka)
-[![X](https://img.shields.io/badge/-X%20(formerly%20Twitter)-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JohanvanWyk3525)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white)](https://www.linkedin.com/in/johan-van-wyk-0/)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441A4?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/druakah)
 [![YouTube](https://img.shields.io/badge/-YouTube-CD201F?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@druakah)
+[![X](https://img.shields.io/badge/-X%20(formerly%20Twitter)-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JohanvanWyk3525)
 [![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/johanvanwyk0/)
+[![Strava](https://img.shields.io/badge/-Strava-FC5200?style=for-the-badge&logo=strava&logoColor=white)](https://strava.app.link/NmsI13b4T6b)
 
 I'm a South African 🇿🇦 living in the Netherlands 🇳🇱 — a Software Engineer by day, gamer for life 🎮💻🌍
 
